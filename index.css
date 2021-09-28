@@ -14,3 +14,15 @@ body{font-family:'Signika', sans-serif;}
 
 #search .container{margin-top: 2rem;text-align: center;}
 #search .container .form{margin-top: 1.25rem;padding: 2rem;box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;}
+#search .container .search-area{border-radius: 10px;margin-top: 1.25rem;box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;}
+#search .container .row{margin:0 2rem;}
+#search .container .row select{padding: 0.5rem;margin: 2rem;}
+#search .container .row .btn{margin: 2rem 0;}
+
+#footer{background-color: #22577A;margin-top: 2rem;}
+#footer .container .row .col{margin: 1.75rem 0;}
+#footer .container{color:white;}
+#footer .container .row .col i{font-size: 2rem;margin: 0.75rem 0;padding: 1rem;color: white;}
+#footer .container .row .col i:hover{color: #ff725e;}
+#footer .container .row .col p a{color:coral;padding: 0.25rem 0.75rem;border-radius: 10px;text-decoration: none;}
+#footer .container .row .col p a:hover{background-color:white;}
